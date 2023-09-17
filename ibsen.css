@@ -10,10 +10,12 @@
     font-size: 40px;
     color:black;
     background-color: cyan;
-    
 }
 
-
+:hover {
+    color:black;
+    background-color: cyan;
+}
 
 .manders{
     color:blue;
