@@ -7,13 +7,15 @@
 
 .direction {
     font-family: sans-serif;
-    font-size: 20px;
-    
-    .direction:hover{
-    color:black;
-    background-color: cyan;
+    font-size: 15px;
+   
     }
-}
+
+.direction:hover {
+        color:black;
+        background-color:cyan;
+
+    }
 
 .manders{
     color:blue;
