@@ -45,4 +45,9 @@ th{
     background-color:aquamarine;
 }
 
+h6:hover {
+     text-shadow: 1px 1px 1px black;
+     border: 1px solid black;
+}
+
 
